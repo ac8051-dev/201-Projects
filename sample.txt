@@ -1,1 +1,2 @@
 /* txt file */
+this is my favorite class :D
